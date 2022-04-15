@@ -1,7 +1,7 @@
 {
   "name": "alfacentauri",
   "version": "0.1.0",
-  "homepage": "https://smaalfacentauri.github.io/alcent-web/",
+  "homepage": "https://smaalfacentauri.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
