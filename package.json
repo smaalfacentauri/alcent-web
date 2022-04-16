@@ -1,7 +1,7 @@
 {
   "name": "alfacentauri",
   "version": "0.1.0",
-  "homepage": "https://smaalfacentauri.github.io/",
+  "homepage": "https://alfacentauri.tk",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
